@@ -12,7 +12,7 @@ Simple Node.js script to download and merge separate YouTube video and audio str
 1. Clone the repo and change into the project directory:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/eduardosilveiradev/youtubedownloader
 cd youtubedownloader
 ```
 
